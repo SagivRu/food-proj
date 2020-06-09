@@ -1,0 +1,16 @@
+{
+  "name": "again",
+  "version": "1.0.0",
+  "description": "hopeitwork",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack"
+  },
+  "author": "mc sagiv",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {}
+}
